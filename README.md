@@ -1,0 +1,2 @@
+# 50097c13-hr-recruiting-form-auto-fill
+switching between tabs and losing context costs you real money. This browser extension pays for itself in one use.  Privacy-first: all processing stays local, no data sent to third-party servers. Works directly in Chrome, Edge, and Brave — no switching apps required.  ## What's Included  - Hr &amp; Recruiting Form Auto-Filler And Data Entry Accelerator
